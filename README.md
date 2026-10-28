@@ -40,12 +40,5 @@ dados pelo teclado e mostra o resultado no terminal.
   ampla.
 - Ao misturar `and` e `or`, uso parênteses para deixar a intenção explícita.
 
-## Observações sobre os enunciados
 
-Ao conferir os exemplos dos enunciados com as regras escritas, encontrei duas
-inconsistências, comentadas nos próprios arquivos:
 
-- **Exercício 04:** o exemplo "nota 5,0 / frequência 70" indica *Insuficiente*,
-  mas a regra "nota ≥ 5 **ou** frequência ≥ 75" resulta em *Regular*.
-- **Exercício 10:** o exemplo de salário R$ 2.500,00 mostra imposto de 17,06,
-  mas o cálculo `2500 × 0,075 − 169,44` resulta em 18,06.
